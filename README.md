@@ -1,1 +1,3 @@
-# Samoposluga
+# Supermarket
+
+C# and MySql databese 
